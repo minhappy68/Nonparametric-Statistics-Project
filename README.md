@@ -17,6 +17,7 @@
 
 ## 팀원
 
-| Member |
-|--------|
-| <a href="https://github.com/iseonjae"><img src="https://avatars.githubusercontent.com/iseonjae" width="80px;" alt="iseonjae"/></a><br/>@iseonjae |
+| Member | Member |
+|--------|--------|
+| <a href="https://github.com/iseonjae"><img src="https://avatars.githubusercontent.com/iseonjae" width="80px;" alt="iseonjae"/></a><br/>@iseonjae | <a href="https://github.com/minhappy68"><img src="https://avatars.githubusercontent.com/minhappy68" width="80px;" alt="minhappy68"/></a><br/>@minhappy68 |
+
